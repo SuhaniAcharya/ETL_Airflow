@@ -9,6 +9,7 @@ Initialize an Airflow project (inside your new folder in VS Code)
   (Creates the standard DAGs/plugins/dependencies structure.) 
 
 Write your ETL code
+You will find my code in AirflowETL -> dags -> __pychache__ -> ETLWeather.py
 
 Make docker-compose.yml file before running project
 
